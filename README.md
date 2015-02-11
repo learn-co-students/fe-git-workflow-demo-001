@@ -5,5 +5,7 @@ type: lecture
 resources: 0
 ---
 
+## Git Workflow
+
 <img src="http://ironboard-curriculum-content.s3.amazonaws.com/front-end/lab-assets/ironboard-lab-workflow.png" alt="Ironboard Lab Workflow">
 
